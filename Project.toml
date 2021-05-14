@@ -1,0 +1,4 @@
+name = "jlArrowSolver"
+uuid = "eb35fd29-457f-4ded-b79e-ef200fca3f74"
+authors = ["Lukas Grassauer <lukas@grassauer.eu>"]
+version = "0.1.0"
