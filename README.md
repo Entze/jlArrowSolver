@@ -1,7 +1,10 @@
 
 # ⬆️ jlArrowSolver
 
-![Build](https://img.shields.io/github/workflow/status/Entze/jlArrowSolver/CI?label=Build&style=for-the-badge) ![Code Coverage](https://img.shields.io/codecov/c/github/entze/jlArrowSolver?label=Coverage&style=for-the-badge&token=YM9I3918WZ) ![License](https://img.shields.io/github/license/Entze/jlArrowSolver?label=License&style=for-the-badge) ![Latest Version](https://img.shields.io/github/v/release/Entze/jlArrowSolver?label=version&style=for-the-badge)
+![Build](https://img.shields.io/github/workflow/status/Entze/jlArrowSolver/CI?label=Build&style=for-the-badge)
+![Code Coverage](https://img.shields.io/codecov/c/github/entze/jlArrowSolver?label=Coverage&style=for-the-badge&token=YM9I3918WZ)
+![License](https://img.shields.io/github/license/Entze/jlArrowSolver?label=License&style=for-the-badge)
+![Latest Version](https://img.shields.io/github/v/release/Entze/jlArrowSolver?label=version&style=for-the-badge)
 
 
 ## 🎯 Requirements
